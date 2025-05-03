@@ -1,5 +1,8 @@
-👋 Hi, I’m @e5LA (esla)
+# 👋 Hi, I’m @e5LA (esla) aka *SP*
 
-👀 I’m interested in programming, web, security and delivering products
+💻 Software engineer with a passion for engineering, web development, security, and building real products.  
+🧑‍💻 I mainly code in Java, Python, and PHP.
 
-💞️ I’m looking to collaborate on interesting projects
+🚀 New to open source — but not to code. Currently exploring meaningful projects to learn, contribute, and grow.
+
+🛠️ Meanwhile, working on private projects.
