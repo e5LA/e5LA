@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @e5LA (esla) aka *SP*
+# 👋 Hi, I’m @e5LA 
 
 Software Engineer, interested in engineering, web development, security, and building real products.  
 Coding mainly in Java and Python. Sometimes in PHP.
