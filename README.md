@@ -1,8 +1,9 @@
 # 👋 Hi, I’m @e5LA 
 
-Software Engineer, interested in engineering, web development, security, and building real products.  
-Coding mainly in Java and Python. Sometimes in PHP.
+Software Engineer with interests in engineering, web development, security, and building real-world products.  
+Mostly coding in Java, Kotlin, and Python — occasionally in PHP.
 
-New to open source — but not to coding. Currently exploring meaningful projects to learn, contribute, and grow.
+I recently started contributing to open source and have been enjoying working on [OpenRewrite](https://github.com/openrewrite/rewrite). 
+I'm also exploring other meaningful projects to contribute to and learn from.
 
-Meanwhile, working on private projects.
+Currently working on a few personal projects, like [realworld-java-solutions](https://github.com/e5LA/realworld-java-solutions) - more details coming soon.
